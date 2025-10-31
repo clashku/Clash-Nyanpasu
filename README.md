@@ -1,2 +1,1 @@
-# Clash-Nyanpasu
-Clash Nyanpasu 官网下载客户端分享
+# Clash Nyanpasu 官网下载客户端分享
